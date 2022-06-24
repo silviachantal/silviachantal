@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @silviachantal
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning data science for languages applications
+- 🌱 I’m currently learning data science for languages applications at the University of Stuttgart
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me silvia.c14@live.it
 
